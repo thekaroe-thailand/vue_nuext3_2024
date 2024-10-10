@@ -1,7 +1,7 @@
 <script setup>
-  import MultipllicationTable from './components/MultipllicationTable.vue'
+  import TodoList from './components/TodoList.vue'
 </script>
 
 <template>
-  <MultipllicationTable />
+  <TodoList />
 </template>
