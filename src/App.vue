@@ -1,7 +1,7 @@
 <script setup>
-  import TodoList from './components/TodoList.vue'
+  import HttpDeleteExample from './components/HttpDeleteExample.vue';
 </script>
 
 <template>
-  <TodoList />
+    <HttpDeleteExample />
 </template>

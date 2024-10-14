@@ -24,7 +24,7 @@
 <template>
     <ul>
         <li v-for="todo in todoList" :key="todo.id">
-            {{  todo.title }}
+            {{ todo.title }}
             <button @click="removeTodo(todo.id)">Remove</button>
         </li>
     </ul>
